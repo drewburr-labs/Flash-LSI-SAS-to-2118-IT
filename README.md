@@ -2,7 +2,7 @@
 
 ## Steps
 
-1. Record the SAS Address from the back of your SAS card. You'll only need thje digits, no special characters or spaces.
+1. Record the SAS Address from the back of your SAS card. You'll only need the digits, no special characters or spaces.
 2. Use Rufus to create a FreeDOS boot USB.
 3. Drop your MegaRec.exe, DOES4GW.exe, and sbrempty.bin files into the root folder of your USB drive.
 4. Boot to your newly created FreeDOS drive.
